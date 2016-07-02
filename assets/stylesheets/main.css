@@ -124,3 +124,17 @@ buttons
 .btn-default:hover {
   background: #77a198;
 }
+/*
+  ========================================
+  Typography
+  ========================================
+*/
+
+h1, p {
+  margin-bottom: 22px;
+  color: #648880;
+}
+h1 {
+  font-size: 36px;
+  line-height: 44px;
+}
